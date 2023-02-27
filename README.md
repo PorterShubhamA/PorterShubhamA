@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shubham Agrawal
-- 👀 I’m working as Sr. Business Analyst.
-- 🌱 I’m currently working on partner lifecyle related projects
+- 👀 I’m working as Data Scientist III
 - 📫 You can reach out to me at shubhamagrawal@theporter.in
 
 <!---
